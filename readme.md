@@ -7,3 +7,5 @@ Topics Covered:
 - Classes
 - Arrays and data sets
 - Saving data with LocalStorage
+
+Important DOM methods: closest, contains, dataset, matches, nextElementSibling
